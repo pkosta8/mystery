@@ -1,6 +1,6 @@
 CHOICES
 
-First Choice: _3 end___
+First Choice: _1___
 Second Choice: ____
 Third Choice: ____
 Fourth Choice: ____
